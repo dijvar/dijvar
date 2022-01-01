@@ -12,8 +12,8 @@ You can review the source codes of all my work from my Github profiles.
 
 --------------------------------
 ## 🤝🏻 Connect with Me
-| [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dijvar/) |  [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/dijvar)  |
-| ----------- | ----------- |--- |
+| [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dijvar/) |
+| [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/dijvar)  |
 | [![](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=FFFFFF&label=)](https://www.kaggle.com/orhandjvarekinci)|
 
 
@@ -24,7 +24,6 @@ You can review the source codes of all my work from my Github profiles.
 <p align="center">
 <a href="https://github.com/dijvar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dijvar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dijvar&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
